@@ -19,11 +19,24 @@ import io
 
 # Import ingestion tracker
 from ingestion_tracker import (
-    is_file_ingested, 
-    get_ingestion_info, 
+    is_file_ingested,
+    get_ingestion_info,
     add_ingested_file,
     extract_company_and_fy_from_pdf_path,
-    get_collection_name
+    get_collection_name,
+)
+
+# Import configuration
+from config import (
+    QDRANT_URL,
+    QDRANT_API_KEY,
+    AWS_ACCESS_KEY_ID,
+    AWS_SECRET_ACCESS_KEY,
+    AWS_REGION_NAME,
+    CLAUDE_MODEL_ID,
+    ANTHROPIC_VERSION,
+    SPARSE_EMBEDDING_URL,
+    LOG_LEVEL,
 )
 
 # ---------------------------------------------------------------------------
@@ -42,33 +55,18 @@ COMPANY_NAME, FINANCIAL_YEAR = extract_company_and_fy_from_pdf_path(PDF_PATH)
 COLLECTION_NAME = get_collection_name(PDF_PATH)
 VECTOR_NAME: str = f"{COMPANY_NAME.lower()}_pagewise_embedding"
 
-SPARSE_EMBEDDING_URL: str = os.getenv(
-    "SPARSE_EMBEDDING_URL", "http://52.7.81.94:8010/embed"
-)
-QDRANT_URL: str = os.getenv("QDRANT_URL")
-QDRANT_API_KEY: Optional[str] = os.getenv("QDRANT_API_KEY")
-
-AWS_REGION_NAME: str = os.getenv("AWS_REGION_NAME", "us-east-1")
-
-# ---------- Bedrock Claude ----------
-CLAUDE_MODEL_ID: str = os.getenv(
-    "CLAUDE_MODEL_ID", "anthropic.claude-3-sonnet-20240229-v1:0"
-)
-CLAUDE_MAX_TOKENS: int = 1024  # per user request
-ANTHROPIC_VERSION: str = os.getenv("ANTHROPIC_VERSION", "bedrock-2023-05-31")
-
 # ---------- Processing Configuration ----------
 PAGES_PER_BATCH: int = 5  # Process 5 pages at a time
 MAX_WORKERS: int = 5  # Number of parallel workers
+CLAUDE_MAX_TOKENS: int = 1024  # per user request
 
 # ---------------------------------------------------------------------------
 # LOGGING
 # ---------------------------------------------------------------------------
-LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO").upper()
 logging.basicConfig(
     format="%(asctime)s | %(levelname)-8s | %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S",
-    level=getattr(logging, LOG_LEVEL, logging.INFO),
+    level=getattr(logging, LOG_LEVEL.upper(), logging.INFO),
 )
 logger = logging.getLogger("ingest")
 logger.info("Logger initialised at level %s", LOG_LEVEL)
@@ -409,11 +407,17 @@ def ingest_pdf(pdf_path: str) -> bool:
         filename = os.path.basename(pdf_path)
         if is_file_ingested(filename):
             ingestion_info = get_ingestion_info(filename)
-            logger.info(f"File {filename} is already ingested in collection '{ingestion_info['COLLECTION_NAME']}'")
-            logger.info(f"Company: {ingestion_info['COMPANY_NAME']}, Vector: {ingestion_info['VECTOR_NAME']}")
+            logger.info(
+                f"File {filename} is already ingested in collection '{ingestion_info['COLLECTION_NAME']}'"
+            )
+            logger.info(
+                f"Company: {ingestion_info['COMPANY_NAME']}, Vector: {ingestion_info['VECTOR_NAME']}"
+            )
             return True
 
-        logger.info(f"File {filename} not found in ingestion tracker. Proceeding with ingestion...")
+        logger.info(
+            f"File {filename} not found in ingestion tracker. Proceeding with ingestion..."
+        )
 
         # Get total number of pages using PyPDF2
         with open(pdf_path, "rb") as file:
@@ -525,7 +529,7 @@ def ingest_pdf(pdf_path: str) -> bool:
 
         # Update ingestion tracker after successful ingestion
         add_ingested_file(filename, COLLECTION_NAME, COMPANY_NAME, VECTOR_NAME)
-        
+
         logger.info(
             "SUCCESS: Ingestion complete for %s. Stored sparse vectors in '%s'",
             COMPANY_NAME,

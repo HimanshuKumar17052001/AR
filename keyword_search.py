@@ -9,11 +9,14 @@ from qdrant_client.http import models as qm
 
 # Import ingestion tracker
 from ingestion_tracker import (
-    is_file_ingested, 
+    is_file_ingested,
     get_ingestion_info,
     extract_company_and_fy_from_pdf_path,
-    get_collection_name
+    get_collection_name,
 )
+
+# Import configuration
+from config import QDRANT_URL, QDRANT_API_KEY, LOG_LEVEL
 
 # ---------------------------------------------------------------------------
 # ENV & CONSTANTS
@@ -32,16 +35,15 @@ COMPANY_NAME, FINANCIAL_YEAR = extract_company_and_fy_from_pdf_path(PDF_PATH)
 filename = os.path.basename(PDF_PATH)
 if is_file_ingested(filename):
     ingestion_info = get_ingestion_info(filename)
-    COLLECTION_NAME = ingestion_info['COLLECTION_NAME']
-    COMPANY_NAME = ingestion_info['COMPANY_NAME']
+    COLLECTION_NAME = ingestion_info["COLLECTION_NAME"]
+    COMPANY_NAME = ingestion_info["COMPANY_NAME"]
     logger = logging.getLogger("keyword_search")
-    logger.info(f"Using existing ingestion info for {filename}: Collection={COLLECTION_NAME}, Company={COMPANY_NAME}")
+    logger.info(
+        f"Using existing ingestion info for {filename}: Collection={COLLECTION_NAME}, Company={COMPANY_NAME}"
+    )
 else:
     # Use default collection naming logic for new files
     COLLECTION_NAME = get_collection_name(PDF_PATH)
-
-QDRANT_URL: str = os.getenv("QDRANT_URL")
-QDRANT_API_KEY: str = os.getenv("QDRANT_API_KEY")
 
 # Exact phrases to search for
 FINANCIAL_TABLE_PHRASES = [
@@ -92,11 +94,10 @@ FINANCIAL_TABLE_PHRASES = [
 # ---------------------------------------------------------------------------
 # LOGGING
 # ---------------------------------------------------------------------------
-LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO").upper()
 logging.basicConfig(
     format="%(asctime)s | %(levelname)-8s | %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S",
-    level=getattr(logging, LOG_LEVEL, logging.INFO),
+    level=getattr(logging, LOG_LEVEL.upper(), logging.INFO),
 )
 logger = logging.getLogger("keyword_search")
 
@@ -135,14 +136,14 @@ def extract_table_info(summary: str, pdf_filename: str) -> str:
     """
     # Get just the filename without extension
     filename = os.path.basename(pdf_filename).replace(".pdf", "").replace(".PDF", "")
-    
+
     # Special case for ICICI_2023-34.pdf
     if filename == "ICICI_2023-34":
         # Find the first full stop
         first_period = summary.find(".")
         if first_period != -1:
             # Return everything after the first full stop (table description part)
-            return summary[first_period + 1:].strip()
+            return summary[first_period + 1 :].strip()
         # If no full stop found, return the whole summary
         return summary
     else:
