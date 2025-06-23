@@ -317,7 +317,11 @@ def extract_tables(pdf: str, page_map: Dict[str, List[int]], company: str) -> st
 # Streamlit UI -------------------------------------------------------------
 # ---------------------------------------------------------------------------
 
-st.set_page_config(page_title="Financial Table Extractor", layout="centered")
+st.set_page_config(
+    page_title="Financial Table Extractor",
+    layout="centered",
+    initial_sidebar_state="expanded",
+)
 st.title("📊 Financial Statement Table Extractor")
 
 # Add instructions sidebar
