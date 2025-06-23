@@ -44,17 +44,6 @@ from config import (
 # ---------------------------------------------------------------------------
 load_dotenv()
 
-PDF_PATH: str = os.getenv(
-    "PDF_PATH", r"C:\Users\himan\Downloads\Documents\ICICI_2023-24.pdf"
-)
-
-# Extract company and FY from PDF path
-COMPANY_NAME, FINANCIAL_YEAR = extract_company_and_fy_from_pdf_path(PDF_PATH)
-
-# Get collection name and vector name
-COLLECTION_NAME = get_collection_name(PDF_PATH)
-VECTOR_NAME: str = f"{COMPANY_NAME.lower()}_pagewise_embedding"
-
 # ---------- Processing Configuration ----------
 PAGES_PER_BATCH: int = 5  # Process 5 pages at a time
 MAX_WORKERS: int = 5  # Number of parallel workers
@@ -84,24 +73,28 @@ if QDRANT_API_KEY:
 qdrant_client = QdrantClient(**_qdrant_kwargs, check_compatibility=False)
 logger.info("Initialised Qdrant client with URL: %s", QDRANT_URL)
 
-sparse_cfg = {VECTOR_NAME: qm.SparseVectorParams(index=qm.SparseIndexParams())}
 
-if not qdrant_client.collection_exists(COLLECTION_NAME):
-    logger.info("Creating sparse‑only collection %s", COLLECTION_NAME)
-    qdrant_client.create_collection(
-        COLLECTION_NAME,
-        vectors_config={},  # no dense spaces
-        sparse_vectors_config=sparse_cfg,
-    )
-else:
-    # Ensure sparse space exists (idempotent)
-    try:
-        qdrant_client.update_collection(
-            COLLECTION_NAME, sparse_vectors_config=sparse_cfg
+def ensure_collection_exists(collection_name: str, vector_name: str):
+    """Ensure the Qdrant collection exists with proper sparse vector configuration."""
+    sparse_cfg = {vector_name: qm.SparseVectorParams(index=qm.SparseIndexParams())}
+
+    if not qdrant_client.collection_exists(collection_name):
+        logger.info("Creating sparse‑only collection %s", collection_name)
+        qdrant_client.create_collection(
+            collection_name,
+            vectors_config={},  # no dense spaces
+            sparse_vectors_config=sparse_cfg,
         )
-    except Exception as e:
-        if "already exists" not in str(e).lower():
-            logger.warning("Collection update warning: %s", e)
+    else:
+        # Ensure sparse space exists (idempotent)
+        try:
+            qdrant_client.update_collection(
+                collection_name, sparse_vectors_config=sparse_cfg
+            )
+        except Exception as e:
+            if "already exists" not in str(e).lower():
+                logger.warning("Collection update warning: %s", e)
+
 
 # ---------------------------------------------------------------------------
 # BEDROCK RUNTIME CLIENT
@@ -419,12 +412,21 @@ def ingest_pdf(pdf_path: str) -> bool:
             f"File {filename} not found in ingestion tracker. Proceeding with ingestion..."
         )
 
+        # Determine collection name and vector name based on PDF path
+        company_name, financial_year = extract_company_and_fy_from_pdf_path(pdf_path)
+        collection_name = get_collection_name(pdf_path)
+        vector_name = f"{company_name.lower()}_pagewise_embedding"
+
+        # Ensure collection exists
+        ensure_collection_exists(collection_name, vector_name)
+
         # Get total number of pages using PyPDF2
         with open(pdf_path, "rb") as file:
             pdf_reader = PyPDF2.PdfReader(file)
             total_pages = len(pdf_reader.pages)
 
         logger.info(f"PDF opened: {total_pages} pages found")
+        logger.info(f"Using collection: {collection_name}, vector: {vector_name}")
 
         # Process pages in batches of 5
         for batch_start in range(0, total_pages, PAGES_PER_BATCH):
@@ -508,11 +510,11 @@ def ingest_pdf(pdf_path: str) -> bool:
                     point = qm.PointStruct(
                         id=str(uuid.uuid4()),
                         vector={
-                            VECTOR_NAME: qm.SparseVector(indices=indices, values=values)
+                            vector_name: qm.SparseVector(indices=indices, values=values)
                         },
                         payload={
                             "page_num": page_num,
-                            "company_name": COMPANY_NAME,
+                            "company_name": company_name,
                             "markdown": markdown,
                             "summary": summary,
                         },
@@ -520,7 +522,7 @@ def ingest_pdf(pdf_path: str) -> bool:
                     points.append(point)
 
                 try:
-                    qdrant_client.upsert(collection_name=COLLECTION_NAME, points=points)
+                    qdrant_client.upsert(collection_name=collection_name, points=points)
                     logger.info(
                         f"Upserted {len(points)} points for pages {batch_start + 1}-{batch_end}"
                     )
@@ -528,12 +530,12 @@ def ingest_pdf(pdf_path: str) -> bool:
                     logger.error(f"Upsert error: {e}")
 
         # Update ingestion tracker after successful ingestion
-        add_ingested_file(filename, COLLECTION_NAME, COMPANY_NAME, VECTOR_NAME)
+        add_ingested_file(filename, collection_name, company_name, vector_name)
 
         logger.info(
             "SUCCESS: Ingestion complete for %s. Stored sparse vectors in '%s'",
-            COMPANY_NAME,
-            COLLECTION_NAME,
+            company_name,
+            collection_name,
         )
         return True
 
@@ -543,6 +545,10 @@ def ingest_pdf(pdf_path: str) -> bool:
 
 
 if __name__ == "__main__":
-    if not ingest_pdf(PDF_PATH):
-        logger.error("Ingestion failed for PDF: %s", PDF_PATH)
+    # Example usage - replace with actual PDF path
+    pdf_path = os.getenv(
+        "PDF_PATH", r"C:\Users\himan\Downloads\Documents\ICICI_2023-24.pdf"
+    )
+    if not ingest_pdf(pdf_path):
+        logger.error("Ingestion failed for PDF: %s", pdf_path)
         exit(1)
