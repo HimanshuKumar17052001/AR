@@ -1,0 +1,12 @@
+streamlit
+pandas
+openpyxl
+PyPDF2
+pdfplumber
+qdrant-client
+boto3
+requests
+python-dotenv
+PyMuPDF
+anthropic
+pillow

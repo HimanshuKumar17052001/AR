@@ -1,0 +1,572 @@
+{
+  "pdf_path": "C:\\Users\\himan\\Downloads\\Documents\\Zomato_2023-24.pdf",
+  "collection_name": "ZOMATO_AR_EMBEDDINGS",
+  "search_phrases": [
+    "Standalone Balance Sheet",
+    "Balance Sheet",
+    "Standalone Statement of Balance Sheet",
+    "Statement of Balance Sheet",
+    "Standalone Profit and Loss Account",
+    "Profit and Loss Account",
+    "Profit and Loss",
+    "Profit and Loss Account",
+    "Statement of Profit and Loss",
+    "Standalone Statement of Profit and Loss",
+    "Statement of Profit and Loss",
+    "Standalone Cash Flow Statement",
+    "Cash Flow Statement",
+    "Standalone Statement of Cash Flow",
+    "Statement of Cash Flow",
+    "Standalone Statement of Cash Flows",
+    "Statement of Cash Flows",
+    "Statement of Cash Flow",
+    "Consolidated Balance Sheet",
+    "Consolidated Profit and Loss Account",
+    "Consolidated Statement of Profit and Loss",
+    "Consolidated Cash Flow Statement",
+    "Consolidated Statement of Cash Flows",
+    "Consolidated Statement of Cash Flow",
+    "Consolidated Statement of Profit and Loss",
+    "Consolidated Statement of Profit and Loss Account",
+    "Consolidated Statement of Cash Flows",
+    "Consolidated Statement of Cash Flow",
+    "Consolidated Statement of Profit and Loss",
+    "Consolidated Statement of Profit and Loss Account"
+  ],
+  "results_by_phrase": {
+    "Standalone Balance Sheet": [
+      {
+        "page_num": 283,
+        "position": 37,
+        "summary": "Page 283 contains headings as Financial Statements: Standalone Statutory Reports, Assets, Non-current assets, Current assets, Equity and liabilities, Non-current liabilities, and Standalone Balance Sheet. Page 283 contains table(s) that has {Standalone Balance Sheet} and {showing assets, equity, and liabilities of the company}.",
+        "table_info": "Page 283 contains table(s) that has {Standalone Balance Sheet} and {showing assets, equity, and liabilities of the company}.",
+        "company_name": "ZOMATO",
+        "phrase": "Standalone Balance Sheet",
+        "searched_phrase": "Standalone Balance Sheet"
+      },
+      {
+        "page_num": 284,
+        "position": 37,
+        "summary": "Page 284 contains no headings. Page 284 contains table(s) that has {Standalone Balance Sheet} and {showing current liabilities, total liabilities, total equity and liabilities of Zomato Limited as at March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 284 contains table(s) that has {Standalone Balance Sheet} and {showing current liabilities, total liabilities, total equity and liabilities of Zomato Limited as at March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Standalone Balance Sheet",
+        "searched_phrase": "Standalone Balance Sheet"
+      }
+    ],
+    "Balance Sheet": [
+      {
+        "page_num": 283,
+        "position": 48,
+        "summary": "Page 283 contains headings as Financial Statements: Standalone Statutory Reports, Assets, Non-current assets, Current assets, Equity and liabilities, Non-current liabilities, and Standalone Balance Sheet. Page 283 contains table(s) that has {Standalone Balance Sheet} and {showing assets, equity, and liabilities of the company}.",
+        "table_info": "Page 283 contains table(s) that has {Standalone Balance Sheet} and {showing assets, equity, and liabilities of the company}.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      },
+      {
+        "page_num": 284,
+        "position": 48,
+        "summary": "Page 284 contains no headings. Page 284 contains table(s) that has {Standalone Balance Sheet} and {showing current liabilities, total liabilities, total equity and liabilities of Zomato Limited as at March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 284 contains table(s) that has {Standalone Balance Sheet} and {showing current liabilities, total liabilities, total equity and liabilities of Zomato Limited as at March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      },
+      {
+        "page_num": 225,
+        "position": 48,
+        "summary": "Page 225 contains heading(s) as Notes to the Consolidated Financial Statements and Interest in Joint Venture Company (\"JVC\"). Page 225 contains table(s) that has {Summarised balance sheet as at:} and {summarized financial position and performance of the joint venture}.",
+        "table_info": "Page 225 contains table(s) that has {Summarised balance sheet as at:} and {summarized financial position and performance of the joint venture}.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      },
+      {
+        "page_num": 168,
+        "position": 50,
+        "summary": "Page 168 contains no headings. Page 168 contains table(s) that has {Consolidated Balance Sheet} and {financial liabilities, assets and equity of the company}.",
+        "table_info": "Page 168 contains table(s) that has {Consolidated Balance Sheet} and {financial liabilities, assets and equity of the company}.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      },
+      {
+        "page_num": 167,
+        "position": 50,
+        "summary": "Page 167 contains heading(s) as Consolidated Balance Sheet and no other headings. Page 167 contains table(s) that has {Consolidated Balance Sheet} and {showing assets, liabilities and equity of the company}.",
+        "table_info": "Page 167 contains table(s) that has {Consolidated Balance Sheet} and {showing assets, liabilities and equity of the company}.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      },
+      {
+        "page_num": 243,
+        "position": 185,
+        "summary": "Page 243 contains headings as Notes to the Consolidated Financial Statements, 38 Income Tax, (a) Major components of tax expense/(income):, (b) Components of deferred tax assets / (liabilities) recognised in the Balance Sheet:, and (c) Reconciliation of accounting profit and tax expense:. Page 243 contains tables that have {Major components of tax expense/(income):} and {details of tax expense/income}, {Components of deferred tax assets / (liabilities) recognised in the Balance Sheet:} and {details of deferred tax assets/liabilities}, and {Reconciliation of accounting profit and tax expense:} and {reconciliation of accounting profit and tax expense}.",
+        "table_info": "Page 243 contains tables that have {Major components of tax expense/(income):} and {details of tax expense/income}, {Components of deferred tax assets / (liabilities) recognised in the Balance Sheet:} and {details of deferred tax assets/liabilities}, and {Reconciliation of accounting profit and tax expense:} and {reconciliation of accounting profit and tax expense}.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      }
+    ],
+    "Standalone Statement of Balance Sheet": [],
+    "Statement of Balance Sheet": [],
+    "Standalone Profit and Loss Account": [],
+    "Profit and Loss Account": [
+      {
+        "page_num": 38,
+        "position": 57,
+        "summary": "Page 38 contains heading(s) as Company Overview, Financial Statements, Statutory Reports: MD&A, and Consolidated audited profit and loss account. Page 38 contains table(s) that has {Consolidated audited profit and loss account} and {financial figures for income, expenses, profit/loss for FY24 and FY23}.",
+        "table_info": "Page 38 contains table(s) that has {Consolidated audited profit and loss account} and {financial figures for income, expenses, profit/loss for FY24 and FY23}.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 38,
+        "position": 57,
+        "summary": "Page 38 contains heading(s) as Company Overview, Financial Statements, Statutory Reports: MD&A, and Consolidated audited profit and loss account. Page 38 contains table(s) that has {Consolidated audited profit and loss account} and {financial figures for income, expenses, profit/loss for FY24 and FY23}.",
+        "table_info": "Page 38 contains table(s) that has {Consolidated audited profit and loss account} and {financial figures for income, expenses, profit/loss for FY24 and FY23}.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      }
+    ],
+    "Profit and Loss": [
+      {
+        "page_num": 38,
+        "position": 57,
+        "summary": "Page 38 contains heading(s) as Company Overview, Financial Statements, Statutory Reports: MD&A, and Consolidated audited profit and loss account. Page 38 contains table(s) that has {Consolidated audited profit and loss account} and {financial figures for income, expenses, profit/loss for FY24 and FY23}.",
+        "table_info": "Page 38 contains table(s) that has {Consolidated audited profit and loss account} and {financial figures for income, expenses, profit/loss for FY24 and FY23}.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      },
+      {
+        "page_num": 286,
+        "position": 61,
+        "summary": "Page 286 contains no headings. Page 286 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial details for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 286 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial details for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      },
+      {
+        "page_num": 285,
+        "position": 61,
+        "summary": "Page 285 contains heading(s) as Standalone Statement of Profit and Loss, and no other headings. Page 285 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 285 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      },
+      {
+        "page_num": 170,
+        "position": 63,
+        "summary": "Page 170 contains no headings. Page 170 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance details of Zomato Limited for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 170 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance details of Zomato Limited for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      },
+      {
+        "page_num": 169,
+        "position": 63,
+        "summary": "Page 169 contains heading(s) as Consolidated Statement of Profit and Loss, and no other headings. Page 169 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 169 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      },
+      {
+        "page_num": 232,
+        "position": 92,
+        "summary": "Page 232 contains heading(s) as Notes to the Consolidated Financial Statements. Page 232 contains table(s) that has {Lease liabilities break-up} and {amounts recognised in profit and loss}, and {contractual maturities of lease liabilities}.",
+        "table_info": "Page 232 contains table(s) that has {Lease liabilities break-up} and {amounts recognised in profit and loss}, and {contractual maturities of lease liabilities}.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      },
+      {
+        "page_num": 226,
+        "position": 133,
+        "summary": "Page 226 contains no headings. Page 226 contains table(s) that has Changes in the defined benefit obligation and Gratuity cost charged to consolidated statement of profit and loss (details of employee benefits obligation).",
+        "table_info": "Page 226 contains table(s) that has Changes in the defined benefit obligation and Gratuity cost charged to consolidated statement of profit and loss (details of employee benefits obligation).",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      }
+    ],
+    "Statement of Profit and Loss": [
+      {
+        "page_num": 286,
+        "position": 48,
+        "summary": "Page 286 contains no headings. Page 286 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial details for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 286 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial details for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Statement of Profit and Loss",
+        "searched_phrase": "Statement of Profit and Loss"
+      },
+      {
+        "page_num": 286,
+        "position": 48,
+        "summary": "Page 286 contains no headings. Page 286 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial details for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 286 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial details for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Statement of Profit and Loss",
+        "searched_phrase": "Statement of Profit and Loss"
+      },
+      {
+        "page_num": 285,
+        "position": 48,
+        "summary": "Page 285 contains heading(s) as Standalone Statement of Profit and Loss, and no other headings. Page 285 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 285 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Statement of Profit and Loss",
+        "searched_phrase": "Statement of Profit and Loss"
+      },
+      {
+        "page_num": 285,
+        "position": 48,
+        "summary": "Page 285 contains heading(s) as Standalone Statement of Profit and Loss, and no other headings. Page 285 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 285 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Statement of Profit and Loss",
+        "searched_phrase": "Statement of Profit and Loss"
+      },
+      {
+        "page_num": 170,
+        "position": 50,
+        "summary": "Page 170 contains no headings. Page 170 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance details of Zomato Limited for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 170 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance details of Zomato Limited for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Statement of Profit and Loss",
+        "searched_phrase": "Statement of Profit and Loss"
+      },
+      {
+        "page_num": 170,
+        "position": 50,
+        "summary": "Page 170 contains no headings. Page 170 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance details of Zomato Limited for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 170 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance details of Zomato Limited for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Statement of Profit and Loss",
+        "searched_phrase": "Statement of Profit and Loss"
+      },
+      {
+        "page_num": 169,
+        "position": 50,
+        "summary": "Page 169 contains heading(s) as Consolidated Statement of Profit and Loss, and no other headings. Page 169 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 169 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Statement of Profit and Loss",
+        "searched_phrase": "Statement of Profit and Loss"
+      },
+      {
+        "page_num": 169,
+        "position": 50,
+        "summary": "Page 169 contains heading(s) as Consolidated Statement of Profit and Loss, and no other headings. Page 169 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 169 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Statement of Profit and Loss",
+        "searched_phrase": "Statement of Profit and Loss"
+      },
+      {
+        "page_num": 226,
+        "position": 120,
+        "summary": "Page 226 contains no headings. Page 226 contains table(s) that has Changes in the defined benefit obligation and Gratuity cost charged to consolidated statement of profit and loss (details of employee benefits obligation).",
+        "table_info": "Page 226 contains table(s) that has Changes in the defined benefit obligation and Gratuity cost charged to consolidated statement of profit and loss (details of employee benefits obligation).",
+        "company_name": "ZOMATO",
+        "phrase": "Statement of Profit and Loss",
+        "searched_phrase": "Statement of Profit and Loss"
+      },
+      {
+        "page_num": 226,
+        "position": 120,
+        "summary": "Page 226 contains no headings. Page 226 contains table(s) that has Changes in the defined benefit obligation and Gratuity cost charged to consolidated statement of profit and loss (details of employee benefits obligation).",
+        "table_info": "Page 226 contains table(s) that has Changes in the defined benefit obligation and Gratuity cost charged to consolidated statement of profit and loss (details of employee benefits obligation).",
+        "company_name": "ZOMATO",
+        "phrase": "Statement of Profit and Loss",
+        "searched_phrase": "Statement of Profit and Loss"
+      }
+    ],
+    "Standalone Statement of Profit and Loss": [
+      {
+        "page_num": 286,
+        "position": 37,
+        "summary": "Page 286 contains no headings. Page 286 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial details for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 286 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial details for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Standalone Statement of Profit and Loss",
+        "searched_phrase": "Standalone Statement of Profit and Loss"
+      },
+      {
+        "page_num": 285,
+        "position": 37,
+        "summary": "Page 285 contains heading(s) as Standalone Statement of Profit and Loss, and no other headings. Page 285 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 285 contains table(s) that has {Standalone Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Standalone Statement of Profit and Loss",
+        "searched_phrase": "Standalone Statement of Profit and Loss"
+      }
+    ],
+    "Standalone Cash Flow Statement": [],
+    "Cash Flow Statement": [],
+    "Standalone Statement of Cash Flow": [],
+    "Statement of Cash Flow": [
+      {
+        "page_num": 176,
+        "position": 50,
+        "summary": "Page 176 contains no headings. Page 176 contains table(s) that has {Consolidated Statement of Cash Flows} and {cash flows from investing, financing activities}.",
+        "table_info": "Page 176 contains table(s) that has {Consolidated Statement of Cash Flows} and {cash flows from investing, financing activities}.",
+        "company_name": "ZOMATO",
+        "phrase": "Statement of Cash Flow",
+        "searched_phrase": "Statement of Cash Flow"
+      },
+      {
+        "page_num": 176,
+        "position": 50,
+        "summary": "Page 176 contains no headings. Page 176 contains table(s) that has {Consolidated Statement of Cash Flows} and {cash flows from investing, financing activities}.",
+        "table_info": "Page 176 contains table(s) that has {Consolidated Statement of Cash Flows} and {cash flows from investing, financing activities}.",
+        "company_name": "ZOMATO",
+        "phrase": "Statement of Cash Flow",
+        "searched_phrase": "Statement of Cash Flow"
+      }
+    ],
+    "Standalone Statement of Cash Flows": [],
+    "Statement of Cash Flows": [
+      {
+        "page_num": 176,
+        "position": 50,
+        "summary": "Page 176 contains no headings. Page 176 contains table(s) that has {Consolidated Statement of Cash Flows} and {cash flows from investing, financing activities}.",
+        "table_info": "Page 176 contains table(s) that has {Consolidated Statement of Cash Flows} and {cash flows from investing, financing activities}.",
+        "company_name": "ZOMATO",
+        "phrase": "Statement of Cash Flows",
+        "searched_phrase": "Statement of Cash Flows"
+      }
+    ],
+    "Consolidated Balance Sheet": [
+      {
+        "page_num": 168,
+        "position": 37,
+        "summary": "Page 168 contains no headings. Page 168 contains table(s) that has {Consolidated Balance Sheet} and {financial liabilities, assets and equity of the company}.",
+        "table_info": "Page 168 contains table(s) that has {Consolidated Balance Sheet} and {financial liabilities, assets and equity of the company}.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Balance Sheet",
+        "searched_phrase": "Consolidated Balance Sheet"
+      },
+      {
+        "page_num": 167,
+        "position": 37,
+        "summary": "Page 167 contains heading(s) as Consolidated Balance Sheet and no other headings. Page 167 contains table(s) that has {Consolidated Balance Sheet} and {showing assets, liabilities and equity of the company}.",
+        "table_info": "Page 167 contains table(s) that has {Consolidated Balance Sheet} and {showing assets, liabilities and equity of the company}.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Balance Sheet",
+        "searched_phrase": "Consolidated Balance Sheet"
+      }
+    ],
+    "Consolidated Profit and Loss Account": [],
+    "Consolidated Statement of Profit and Loss": [
+      {
+        "page_num": 170,
+        "position": 37,
+        "summary": "Page 170 contains no headings. Page 170 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance details of Zomato Limited for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 170 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance details of Zomato Limited for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Statement of Profit and Loss",
+        "searched_phrase": "Consolidated Statement of Profit and Loss"
+      },
+      {
+        "page_num": 170,
+        "position": 37,
+        "summary": "Page 170 contains no headings. Page 170 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance details of Zomato Limited for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 170 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance details of Zomato Limited for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Statement of Profit and Loss",
+        "searched_phrase": "Consolidated Statement of Profit and Loss"
+      },
+      {
+        "page_num": 170,
+        "position": 37,
+        "summary": "Page 170 contains no headings. Page 170 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance details of Zomato Limited for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 170 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance details of Zomato Limited for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Statement of Profit and Loss",
+        "searched_phrase": "Consolidated Statement of Profit and Loss"
+      },
+      {
+        "page_num": 169,
+        "position": 37,
+        "summary": "Page 169 contains heading(s) as Consolidated Statement of Profit and Loss, and no other headings. Page 169 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 169 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Statement of Profit and Loss",
+        "searched_phrase": "Consolidated Statement of Profit and Loss"
+      },
+      {
+        "page_num": 169,
+        "position": 37,
+        "summary": "Page 169 contains heading(s) as Consolidated Statement of Profit and Loss, and no other headings. Page 169 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 169 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Statement of Profit and Loss",
+        "searched_phrase": "Consolidated Statement of Profit and Loss"
+      },
+      {
+        "page_num": 169,
+        "position": 37,
+        "summary": "Page 169 contains heading(s) as Consolidated Statement of Profit and Loss, and no other headings. Page 169 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "table_info": "Page 169 contains table(s) that has {Consolidated Statement of Profit and Loss} and {financial performance of the company for the year ended March 31, 2024 and March 31, 2023}.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Statement of Profit and Loss",
+        "searched_phrase": "Consolidated Statement of Profit and Loss"
+      },
+      {
+        "page_num": 226,
+        "position": 107,
+        "summary": "Page 226 contains no headings. Page 226 contains table(s) that has Changes in the defined benefit obligation and Gratuity cost charged to consolidated statement of profit and loss (details of employee benefits obligation).",
+        "table_info": "Page 226 contains table(s) that has Changes in the defined benefit obligation and Gratuity cost charged to consolidated statement of profit and loss (details of employee benefits obligation).",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Statement of Profit and Loss",
+        "searched_phrase": "Consolidated Statement of Profit and Loss"
+      },
+      {
+        "page_num": 226,
+        "position": 107,
+        "summary": "Page 226 contains no headings. Page 226 contains table(s) that has Changes in the defined benefit obligation and Gratuity cost charged to consolidated statement of profit and loss (details of employee benefits obligation).",
+        "table_info": "Page 226 contains table(s) that has Changes in the defined benefit obligation and Gratuity cost charged to consolidated statement of profit and loss (details of employee benefits obligation).",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Statement of Profit and Loss",
+        "searched_phrase": "Consolidated Statement of Profit and Loss"
+      },
+      {
+        "page_num": 226,
+        "position": 107,
+        "summary": "Page 226 contains no headings. Page 226 contains table(s) that has Changes in the defined benefit obligation and Gratuity cost charged to consolidated statement of profit and loss (details of employee benefits obligation).",
+        "table_info": "Page 226 contains table(s) that has Changes in the defined benefit obligation and Gratuity cost charged to consolidated statement of profit and loss (details of employee benefits obligation).",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Statement of Profit and Loss",
+        "searched_phrase": "Consolidated Statement of Profit and Loss"
+      }
+    ],
+    "Consolidated Cash Flow Statement": [],
+    "Consolidated Statement of Cash Flows": [
+      {
+        "page_num": 176,
+        "position": 37,
+        "summary": "Page 176 contains no headings. Page 176 contains table(s) that has {Consolidated Statement of Cash Flows} and {cash flows from investing, financing activities}.",
+        "table_info": "Page 176 contains table(s) that has {Consolidated Statement of Cash Flows} and {cash flows from investing, financing activities}.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Statement of Cash Flows",
+        "searched_phrase": "Consolidated Statement of Cash Flows"
+      },
+      {
+        "page_num": 176,
+        "position": 37,
+        "summary": "Page 176 contains no headings. Page 176 contains table(s) that has {Consolidated Statement of Cash Flows} and {cash flows from investing, financing activities}.",
+        "table_info": "Page 176 contains table(s) that has {Consolidated Statement of Cash Flows} and {cash flows from investing, financing activities}.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Statement of Cash Flows",
+        "searched_phrase": "Consolidated Statement of Cash Flows"
+      }
+    ],
+    "Consolidated Statement of Cash Flow": [
+      {
+        "page_num": 176,
+        "position": 37,
+        "summary": "Page 176 contains no headings. Page 176 contains table(s) that has {Consolidated Statement of Cash Flows} and {cash flows from investing, financing activities}.",
+        "table_info": "Page 176 contains table(s) that has {Consolidated Statement of Cash Flows} and {cash flows from investing, financing activities}.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Statement of Cash Flow",
+        "searched_phrase": "Consolidated Statement of Cash Flow"
+      },
+      {
+        "page_num": 176,
+        "position": 37,
+        "summary": "Page 176 contains no headings. Page 176 contains table(s) that has {Consolidated Statement of Cash Flows} and {cash flows from investing, financing activities}.",
+        "table_info": "Page 176 contains table(s) that has {Consolidated Statement of Cash Flows} and {cash flows from investing, financing activities}.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Statement of Cash Flow",
+        "searched_phrase": "Consolidated Statement of Cash Flow"
+      }
+    ],
+    "Consolidated Statement of Profit and Loss Account": []
+  },
+  "pages_summary": {
+    "283": [
+      "Standalone Balance Sheet",
+      "Balance Sheet"
+    ],
+    "284": [
+      "Standalone Balance Sheet",
+      "Balance Sheet"
+    ],
+    "225": [
+      "Balance Sheet"
+    ],
+    "168": [
+      "Balance Sheet",
+      "Consolidated Balance Sheet"
+    ],
+    "167": [
+      "Balance Sheet",
+      "Consolidated Balance Sheet"
+    ],
+    "243": [
+      "Balance Sheet"
+    ],
+    "38": [
+      "Profit and Loss Account",
+      "Profit and Loss Account",
+      "Profit and Loss"
+    ],
+    "286": [
+      "Profit and Loss",
+      "Statement of Profit and Loss",
+      "Statement of Profit and Loss",
+      "Standalone Statement of Profit and Loss"
+    ],
+    "285": [
+      "Profit and Loss",
+      "Statement of Profit and Loss",
+      "Statement of Profit and Loss",
+      "Standalone Statement of Profit and Loss"
+    ],
+    "170": [
+      "Profit and Loss",
+      "Statement of Profit and Loss",
+      "Statement of Profit and Loss",
+      "Consolidated Statement of Profit and Loss",
+      "Consolidated Statement of Profit and Loss",
+      "Consolidated Statement of Profit and Loss"
+    ],
+    "169": [
+      "Profit and Loss",
+      "Statement of Profit and Loss",
+      "Statement of Profit and Loss",
+      "Consolidated Statement of Profit and Loss",
+      "Consolidated Statement of Profit and Loss",
+      "Consolidated Statement of Profit and Loss"
+    ],
+    "232": [
+      "Profit and Loss"
+    ],
+    "226": [
+      "Profit and Loss",
+      "Statement of Profit and Loss",
+      "Statement of Profit and Loss",
+      "Consolidated Statement of Profit and Loss",
+      "Consolidated Statement of Profit and Loss",
+      "Consolidated Statement of Profit and Loss"
+    ],
+    "176": [
+      "Statement of Cash Flow",
+      "Statement of Cash Flow",
+      "Statement of Cash Flows",
+      "Consolidated Statement of Cash Flows",
+      "Consolidated Statement of Cash Flows",
+      "Consolidated Statement of Cash Flow",
+      "Consolidated Statement of Cash Flow"
+    ]
+  }
+}

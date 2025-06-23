@@ -1,0 +1,92 @@
+{
+  "pdf_path": "C:\\Users\\himan\\Downloads\\Documents\\Zomato_Annual_Report_2023-24.pdf",
+  "collection_name": "ZOMATO_AR_EMBEDDINGS",
+  "page_numbers": {
+    "Standalone Balance Sheet": [],
+    "Balance Sheet": [
+      213,
+      325,
+      283,
+      284,
+      167,
+      164,
+      266,
+      168,
+      225,
+      309
+    ],
+    "Standalone Profit and Loss Account": [],
+    "Profit and Loss Account": [
+      13,
+      13,
+      38,
+      38,
+      285,
+      285,
+      246,
+      246,
+      286,
+      286,
+      169,
+      169,
+      170,
+      170,
+      164,
+      164,
+      266,
+      266
+    ],
+    "Profit and Loss": [
+      13,
+      38,
+      285,
+      246,
+      286,
+      169,
+      170,
+      164,
+      266,
+      225
+    ],
+    "Statement of Profit and Loss": [],
+    "Standalone Cash Flow Statement": [],
+    "Cash Flow Statement": [
+      292,
+      176,
+      291,
+      175,
+      177,
+      293,
+      164,
+      266
+    ],
+    "Consolidated Balance Sheet": [
+      213,
+      325,
+      283,
+      284,
+      167,
+      164,
+      266,
+      168
+    ],
+    "Consolidated Profit and Loss Account": [
+      13,
+      38,
+      285,
+      246,
+      286,
+      169,
+      170
+    ],
+    "Consolidated Statement of Profit and Loss": [],
+    "Consolidated Cash Flow Statement": [
+      292,
+      176,
+      291,
+      175,
+      177,
+      293
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "pdf_path": "C:\\Users\\himan\\Downloads\\Documents\\COAL INDIA_2023-24.pdf",
+  "collection_name": "COAL INDIA_AR_EMBEDDINGS",
+  "search_phrases": [
+    "Standalone Balance Sheet",
+    "Balance Sheet",
+    "Standalone Statement of Balance Sheet",
+    "Statement of Balance Sheet",
+    "Balance Sheet - Standalone",
+    "Standalone Profit and Loss Account",
+    "Profit and Loss Account",
+    "Profit and Loss",
+    "Profit and Loss - Standalone",
+    "Profit and Loss Account",
+    "Statement of Profit and Loss",
+    "Standalone Statement of Profit and Loss",
+    "Statement of Profit and Loss",
+    "Profit and Loss - Standalone",
+    "Statement of Profit and Loss - Standalone",
+    "Standalone Cash Flow Statement",
+    "Cash Flow Statement",
+    "Standalone Statement of Cash Flow",
+    "Statement of Cash Flow",
+    "Statement of Cash Flow - Standalone",
+    "Cash Flow - Standalone",
+    "Standalone Statement of Cash Flows",
+    "Statement of Cash Flows",
+    "Statement of Cash Flow",
+    "Cash Flow - Consolidated",
+    "Consolidated Balance Sheet",
+    "Consolidated Profit and Loss Account",
+    "Consolidated Statement of Profit and Loss",
+    "Profit and Loss - Consolidated",
+    "Consolidated Cash Flow Statement",
+    "Consolidated Statement of Cash Flows",
+    "Consolidated Statement of Cash Flow",
+    "Cash Flow - Consolidated",
+    "Consolidated Statement of Profit and Loss",
+    "Consolidated Statement of Profit and Loss Account",
+    "Consolidated Statement of Cash Flows",
+    "Consolidated Statement of Cash Flow",
+    "Consolidated Statement of Profit and Loss",
+    "Consolidated Statement of Profit and Loss Account",
+    "Statement of Consolidated Profit and Loss",
+    "Statement of Consolidated Cash Flow",
+    "Statement of Consolidated Cash Flows"
+  ],
+  "results_by_phrase": {
+    "Standalone Balance Sheet": [],
+    "Balance Sheet": [
+      {
+        "page_num": 172,
+        "position": 29,
+        "summary": "Page 172 has main heading as BALANCE SHEET - STANDALONE. Page 172 has no subheadings. Page 172 contains table(s) that has {financial statements}.",
+        "main_heading_info": "Page 172 has main heading as BALANCE SHEET - STANDALONE",
+        "company_name": "COAL INDIA",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      },
+      {
+        "page_num": 208,
+        "position": 42,
+        "summary": "Page 208 has main heading as CONSOLIDATED BALANCE SHEET. Page 208 has no subheadings. Page 208 contains table(s) that has consolidated balance sheet details.",
+        "main_heading_info": "Page 208 has main heading as CONSOLIDATED BALANCE SHEET",
+        "company_name": "COAL INDIA",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      }
+    ],
+    "Standalone Statement of Balance Sheet": [],
+    "Statement of Balance Sheet": [],
+    "Balance Sheet - Standalone": [
+      {
+        "page_num": 172,
+        "position": 29,
+        "summary": "Page 172 has main heading as BALANCE SHEET - STANDALONE. Page 172 has no subheadings. Page 172 contains table(s) that has {financial statements}.",
+        "main_heading_info": "Page 172 has main heading as BALANCE SHEET - STANDALONE",
+        "company_name": "COAL INDIA",
+        "phrase": "Balance Sheet - Standalone",
+        "searched_phrase": "Balance Sheet - Standalone"
+      }
+    ],
+    "Standalone Profit and Loss Account": [],
+    "Profit and Loss Account": [],
+    "Profit and Loss": [],
+    "Profit and Loss - Standalone": [],
+    "Statement of Profit and Loss": [],
+    "Standalone Statement of Profit and Loss": [],
+    "Statement of Profit and Loss - Standalone": [],
+    "Standalone Cash Flow Statement": [],
+    "Cash Flow Statement": [],
+    "Standalone Statement of Cash Flow": [],
+    "Statement of Cash Flow": [
+      {
+        "page_num": 174,
+        "position": 29,
+        "summary": "Page 174 has main heading as STATEMENT OF CASH FLOW - STANDALONE. Page 174 has no subheadings. Page 174 contains table(s) that has cash flow statement details.",
+        "main_heading_info": "Page 174 has main heading as STATEMENT OF CASH FLOW - STANDALONE",
+        "company_name": "COAL INDIA",
+        "phrase": "Statement of Cash Flow",
+        "searched_phrase": "Statement of Cash Flow"
+      },
+      {
+        "page_num": 174,
+        "position": 29,
+        "summary": "Page 174 has main heading as STATEMENT OF CASH FLOW - STANDALONE. Page 174 has no subheadings. Page 174 contains table(s) that has cash flow statement details.",
+        "main_heading_info": "Page 174 has main heading as STATEMENT OF CASH FLOW - STANDALONE",
+        "company_name": "COAL INDIA",
+        "phrase": "Statement of Cash Flow",
+        "searched_phrase": "Statement of Cash Flow"
+      }
+    ],
+    "Statement of Cash Flow - Standalone": [
+      {
+        "page_num": 174,
+        "position": 29,
+        "summary": "Page 174 has main heading as STATEMENT OF CASH FLOW - STANDALONE. Page 174 has no subheadings. Page 174 contains table(s) that has cash flow statement details.",
+        "main_heading_info": "Page 174 has main heading as STATEMENT OF CASH FLOW - STANDALONE",
+        "company_name": "COAL INDIA",
+        "phrase": "Statement of Cash Flow - Standalone",
+        "searched_phrase": "Statement of Cash Flow - Standalone"
+      }
+    ],
+    "Cash Flow - Standalone": [
+      {
+        "page_num": 174,
+        "position": 42,
+        "summary": "Page 174 has main heading as STATEMENT OF CASH FLOW - STANDALONE. Page 174 has no subheadings. Page 174 contains table(s) that has cash flow statement details.",
+        "main_heading_info": "Page 174 has main heading as STATEMENT OF CASH FLOW - STANDALONE",
+        "company_name": "COAL INDIA",
+        "phrase": "Cash Flow - Standalone",
+        "searched_phrase": "Cash Flow - Standalone"
+      }
+    ],
+    "Standalone Statement of Cash Flows": [],
+    "Statement of Cash Flows": [],
+    "Cash Flow - Consolidated": [],
+    "Consolidated Balance Sheet": [
+      {
+        "page_num": 208,
+        "position": 29,
+        "summary": "Page 208 has main heading as CONSOLIDATED BALANCE SHEET. Page 208 has no subheadings. Page 208 contains table(s) that has consolidated balance sheet details.",
+        "main_heading_info": "Page 208 has main heading as CONSOLIDATED BALANCE SHEET",
+        "company_name": "COAL INDIA",
+        "phrase": "Consolidated Balance Sheet",
+        "searched_phrase": "Consolidated Balance Sheet"
+      }
+    ],
+    "Consolidated Profit and Loss Account": [],
+    "Consolidated Statement of Profit and Loss": [],
+    "Profit and Loss - Consolidated": [],
+    "Consolidated Cash Flow Statement": [],
+    "Consolidated Statement of Cash Flows": [],
+    "Consolidated Statement of Cash Flow": [],
+    "Consolidated Statement of Profit and Loss Account": [],
+    "Statement of Consolidated Profit and Loss": [],
+    "Statement of Consolidated Cash Flow": [
+      {
+        "page_num": 210,
+        "position": 29,
+        "summary": "Page 210 has main heading as STATEMENT OF CONSOLIDATED CASH FLOW. Page 210 has no subheadings. Page 210 contains table(s) that has {cash flow statement details}.",
+        "main_heading_info": "Page 210 has main heading as STATEMENT OF CONSOLIDATED CASH FLOW",
+        "company_name": "COAL INDIA",
+        "phrase": "Statement of Consolidated Cash Flow",
+        "searched_phrase": "Statement of Consolidated Cash Flow"
+      }
+    ],
+    "Statement of Consolidated Cash Flows": []
+  },
+  "pages_summary": {
+    "172": [
+      "Balance Sheet",
+      "Balance Sheet - Standalone"
+    ],
+    "208": [
+      "Balance Sheet",
+      "Consolidated Balance Sheet"
+    ],
+    "174": [
+      "Statement of Cash Flow",
+      "Statement of Cash Flow",
+      "Statement of Cash Flow - Standalone",
+      "Cash Flow - Standalone"
+    ],
+    "210": [
+      "Statement of Consolidated Cash Flow"
+    ]
+  }
+}

@@ -1,0 +1,758 @@
+{
+  "pdf_path": "C:\\Users\\himan\\Downloads\\Documents\\Zomato_Annual_Report_2023-24.pdf",
+  "collection_name": "ZOMATO_AR_EMBEDDINGS",
+  "search_phrases": [
+    "Standalone Balance Sheet",
+    "Balance Sheet",
+    "Standalone Profit and Loss Account",
+    "Profit and Loss Account",
+    "Profit and Loss",
+    "Profit and Loss Account",
+    "Statement of Profit and Loss",
+    "Standalone Cash Flow Statement",
+    "Cash Flow Statement",
+    "Consolidated Balance Sheet",
+    "Consolidated Profit and Loss Account",
+    "Consolidated Statement of Profit and Loss",
+    "Consolidated Cash Flow Statement"
+  ],
+  "results_by_phrase": {
+    "Standalone Balance Sheet": [],
+    "Balance Sheet": [
+      {
+        "page_num": 213,
+        "position": 48,
+        "summary": "Page 213 contains headings as Notes to the Consolidated Financial Statements, Foreign currency translation reserve, Equity instruments through other comprehensive income, Debt instruments through other comprehensive income, 16 Borrowings, and 17 Trade payables. Page 213 contains tables that have consolidated balance sheet and trade payables details.",
+        "table_info": "Page 213 contains tables that have consolidated balance sheet and trade payables details.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      },
+      {
+        "page_num": 325,
+        "position": 49,
+        "summary": "Page 325 contains heading(s) as Notes to the Standalone Financial Statements, Retained earnings, Treasury shares, Business transfer adjustment reserve, Remeasurements of the defined benefit plans, Foreign currency translation reserve, Equity instruments through other comprehensive income, and Debt instruments through other comprehensive income. Page 325 contains table(s) that has consolidated balance sheet.",
+        "table_info": "Page 325 contains table(s) that has consolidated balance sheet.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      },
+      {
+        "page_num": 283,
+        "position": 49,
+        "summary": "Page 283 contains headings as Financial Statements: Standalone Statutory Reports Company Overview, Assets, Non-current assets, Current assets, Equity and liabilities, Non-current liabilities. Page 283 contains table(s) that has consolidated balance sheet.",
+        "table_info": "Page 283 contains table(s) that has consolidated balance sheet.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      },
+      {
+        "page_num": 284,
+        "position": 49,
+        "summary": "Page 284 contains no headings. Page 284 contains table(s) that has consolidated balance sheet.",
+        "table_info": "Page 284 contains table(s) that has consolidated balance sheet.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      },
+      {
+        "page_num": 167,
+        "position": 49,
+        "summary": "Page 167 contains heading(s) as Consolidated Balance Sheet. Page 167 contains table(s) that has consolidated balance sheet.",
+        "table_info": "Page 167 contains table(s) that has consolidated balance sheet.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      },
+      {
+        "page_num": 164,
+        "position": 50,
+        "summary": "Page 164 contains no headings. Page 164 contains no tables that has consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "table_info": "Page 164 contains no tables that has consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      },
+      {
+        "page_num": 266,
+        "position": 51,
+        "summary": "Page 266 contains headings as Notes to the Consolidated Financial Statements, 49, 50, 51, 52. Page 266 contains tables that have no consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "table_info": "Page 266 contains tables that have no consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      },
+      {
+        "page_num": 168,
+        "position": 52,
+        "summary": "Page 168 contains heading(s) as Financial Statements: Consolidated Statutory Reports Company Overview and Consolidated Balance Sheet (Contd.). Page 168 contains table(s) that has consolidated balance sheet.",
+        "table_info": "). Page 168 contains table(s) that has consolidated balance sheet.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      },
+      {
+        "page_num": 225,
+        "position": 74,
+        "summary": "Page 225 contains heading(s) as Notes to the Consolidated Financial Statements, Interest in Joint Venture Company (\"JVC\"). Page 225 contains table(s) that has details about joint venture company's balance sheet and profit and loss statement.",
+        "table_info": "Page 225 contains table(s) that has details about joint venture company's balance sheet and profit and loss statement.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      },
+      {
+        "page_num": 309,
+        "position": 80,
+        "summary": "Page 309 contains headings as Material Accounting Policies to the Standalone Financial Statements, xviii. Cash and cash equivalents, xix. Treasury shares, xx. Events occurring after the balance sheet date, and 2.3 Significant accounting judgements, estimates and assumptions. Page 309 contains no tables.",
+        "table_info": "Cash and cash equivalents, xix. Treasury shares, xx. Events occurring after the balance sheet date, and 2.3 Significant accounting judgements, estimates and assumptions. Page 309 contains no tables.",
+        "company_name": "ZOMATO",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      }
+    ],
+    "Standalone Profit and Loss Account": [],
+    "Profit and Loss Account": [
+      {
+        "page_num": 13,
+        "position": 47,
+        "summary": "Page 13 contains headings as FY24 operational and financial highlights, Overall Company, and FUN FACT. Page 13 contains tables that have consolidated profit and loss account and consolidated financial statements.",
+        "table_info": "Page 13 contains tables that have consolidated profit and loss account and consolidated financial statements.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 13,
+        "position": 47,
+        "summary": "Page 13 contains headings as FY24 operational and financial highlights, Overall Company, and FUN FACT. Page 13 contains tables that have consolidated profit and loss account and consolidated financial statements.",
+        "table_info": "Page 13 contains tables that have consolidated profit and loss account and consolidated financial statements.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 38,
+        "position": 48,
+        "summary": "Page 38 contains heading(s) as Company Overview, Financial Statements, Statutory Reports: MD&A, and consolidated audited profit and loss account. Page 38 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 38 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 38,
+        "position": 48,
+        "summary": "Page 38 contains heading(s) as Company Overview, Financial Statements, Statutory Reports: MD&A, and consolidated audited profit and loss account. Page 38 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 38 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 285,
+        "position": 49,
+        "summary": "Page 285 contains heading(s) as Standalone Statement of Profit and Loss. Page 285 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 285 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 285,
+        "position": 49,
+        "summary": "Page 285 contains heading(s) as Standalone Statement of Profit and Loss. Page 285 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 285 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 246,
+        "position": 49,
+        "summary": "Page 246 contains heading(s) as Notes to the Consolidated Financial Statements. Page 246 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 246 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 246,
+        "position": 49,
+        "summary": "Page 246 contains heading(s) as Notes to the Consolidated Financial Statements. Page 246 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 246 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 286,
+        "position": 49,
+        "summary": "Page 286 contains no headings. Page 286 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 286 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 286,
+        "position": 49,
+        "summary": "Page 286 contains no headings. Page 286 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 286 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 169,
+        "position": 49,
+        "summary": "Page 169 contains heading(s) as Consolidated Statement of Profit and Loss. Page 169 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 169 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 169,
+        "position": 49,
+        "summary": "Page 169 contains heading(s) as Consolidated Statement of Profit and Loss. Page 169 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 169 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 170,
+        "position": 52,
+        "summary": "Page 170 contains heading(s) as Consolidated Statement of Profit and Loss (Contd.). Page 170 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "). Page 170 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 170,
+        "position": 52,
+        "summary": "Page 170 contains heading(s) as Consolidated Statement of Profit and Loss (Contd.). Page 170 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "). Page 170 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 164,
+        "position": 89,
+        "summary": "Page 164 contains no headings. Page 164 contains no tables that has consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "table_info": "Page 164 contains no tables that has consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 164,
+        "position": 89,
+        "summary": "Page 164 contains no headings. Page 164 contains no tables that has consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "table_info": "Page 164 contains no tables that has consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 266,
+        "position": 90,
+        "summary": "Page 266 contains headings as Notes to the Consolidated Financial Statements, 49, 50, 51, 52. Page 266 contains tables that have no consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "table_info": "Page 266 contains tables that have no consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      },
+      {
+        "page_num": 266,
+        "position": 90,
+        "summary": "Page 266 contains headings as Notes to the Consolidated Financial Statements, 49, 50, 51, 52. Page 266 contains tables that have no consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "table_info": "Page 266 contains tables that have no consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss Account",
+        "searched_phrase": "Profit and Loss Account"
+      }
+    ],
+    "Profit and Loss": [
+      {
+        "page_num": 13,
+        "position": 47,
+        "summary": "Page 13 contains headings as FY24 operational and financial highlights, Overall Company, and FUN FACT. Page 13 contains tables that have consolidated profit and loss account and consolidated financial statements.",
+        "table_info": "Page 13 contains tables that have consolidated profit and loss account and consolidated financial statements.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      },
+      {
+        "page_num": 38,
+        "position": 48,
+        "summary": "Page 38 contains heading(s) as Company Overview, Financial Statements, Statutory Reports: MD&A, and consolidated audited profit and loss account. Page 38 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 38 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      },
+      {
+        "page_num": 285,
+        "position": 49,
+        "summary": "Page 285 contains heading(s) as Standalone Statement of Profit and Loss. Page 285 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 285 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      },
+      {
+        "page_num": 246,
+        "position": 49,
+        "summary": "Page 246 contains heading(s) as Notes to the Consolidated Financial Statements. Page 246 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 246 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      },
+      {
+        "page_num": 286,
+        "position": 49,
+        "summary": "Page 286 contains no headings. Page 286 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 286 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      },
+      {
+        "page_num": 169,
+        "position": 49,
+        "summary": "Page 169 contains heading(s) as Consolidated Statement of Profit and Loss. Page 169 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 169 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      },
+      {
+        "page_num": 170,
+        "position": 52,
+        "summary": "Page 170 contains heading(s) as Consolidated Statement of Profit and Loss (Contd.). Page 170 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "). Page 170 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      },
+      {
+        "page_num": 164,
+        "position": 89,
+        "summary": "Page 164 contains no headings. Page 164 contains no tables that has consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "table_info": "Page 164 contains no tables that has consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      },
+      {
+        "page_num": 266,
+        "position": 90,
+        "summary": "Page 266 contains headings as Notes to the Consolidated Financial Statements, 49, 50, 51, 52. Page 266 contains tables that have no consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "table_info": "Page 266 contains tables that have no consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      },
+      {
+        "page_num": 225,
+        "position": 92,
+        "summary": "Page 225 contains heading(s) as Notes to the Consolidated Financial Statements, Interest in Joint Venture Company (\"JVC\"). Page 225 contains table(s) that has details about joint venture company's balance sheet and profit and loss statement.",
+        "table_info": "Page 225 contains table(s) that has details about joint venture company's balance sheet and profit and loss statement.",
+        "company_name": "ZOMATO",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      }
+    ],
+    "Statement of Profit and Loss": [],
+    "Standalone Cash Flow Statement": [],
+    "Cash Flow Statement": [
+      {
+        "page_num": 292,
+        "position": 49,
+        "summary": "Page 292 contains no headings. Page 292 contains table(s) that has consolidated cash flow statement.",
+        "table_info": "Page 292 contains table(s) that has consolidated cash flow statement.",
+        "company_name": "ZOMATO",
+        "phrase": "Cash Flow Statement",
+        "searched_phrase": "Cash Flow Statement"
+      },
+      {
+        "page_num": 176,
+        "position": 49,
+        "summary": "Page 176 contains heading(s) as Financial Statements: Consolidated Statutory Reports Company Overview173. Page 176 contains table(s) that has consolidated cash flow statement.",
+        "table_info": "Page 176 contains table(s) that has consolidated cash flow statement.",
+        "company_name": "ZOMATO",
+        "phrase": "Cash Flow Statement",
+        "searched_phrase": "Cash Flow Statement"
+      },
+      {
+        "page_num": 291,
+        "position": 49,
+        "summary": "Page 291 contains heading(s) as Financial Statements: Standalone Statutory Reports Company Overview, Standalone Statement of Cash Flows. Page 291 contains table(s) that has consolidated cash flow statement.",
+        "table_info": "Page 291 contains table(s) that has consolidated cash flow statement.",
+        "company_name": "ZOMATO",
+        "phrase": "Cash Flow Statement",
+        "searched_phrase": "Cash Flow Statement"
+      },
+      {
+        "page_num": 175,
+        "position": 49,
+        "summary": "Page 175 contains heading(s) as Consolidated Statement of Cash Flows. Page 175 contains table(s) that has consolidated cash flow statement.",
+        "table_info": "Page 175 contains table(s) that has consolidated cash flow statement.",
+        "company_name": "ZOMATO",
+        "phrase": "Cash Flow Statement",
+        "searched_phrase": "Cash Flow Statement"
+      },
+      {
+        "page_num": 177,
+        "position": 52,
+        "summary": "Page 177 contains heading(s) as Consolidated Statement of Cash Flows (Contd.). Page 177 contains table(s) that has consolidated cash flow statement.",
+        "table_info": "). Page 177 contains table(s) that has consolidated cash flow statement.",
+        "company_name": "ZOMATO",
+        "phrase": "Cash Flow Statement",
+        "searched_phrase": "Cash Flow Statement"
+      },
+      {
+        "page_num": 293,
+        "position": 52,
+        "summary": "Page 293 contains heading(s) as Standalone Statement of Cash Flows (Contd.). Page 293 contains table(s) that has consolidated cash flow statement.",
+        "table_info": "). Page 293 contains table(s) that has consolidated cash flow statement.",
+        "company_name": "ZOMATO",
+        "phrase": "Cash Flow Statement",
+        "searched_phrase": "Cash Flow Statement"
+      },
+      {
+        "page_num": 164,
+        "position": 65,
+        "summary": "Page 164 contains no headings. Page 164 contains no tables that has consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "table_info": "Page 164 contains no tables that has consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Cash Flow Statement",
+        "searched_phrase": "Cash Flow Statement"
+      },
+      {
+        "page_num": 266,
+        "position": 66,
+        "summary": "Page 266 contains headings as Notes to the Consolidated Financial Statements, 49, 50, 51, 52. Page 266 contains tables that have no consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "table_info": "Page 266 contains tables that have no consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Cash Flow Statement",
+        "searched_phrase": "Cash Flow Statement"
+      }
+    ],
+    "Consolidated Balance Sheet": [
+      {
+        "page_num": 213,
+        "position": 35,
+        "summary": "Page 213 contains headings as Notes to the Consolidated Financial Statements, Foreign currency translation reserve, Equity instruments through other comprehensive income, Debt instruments through other comprehensive income, 16 Borrowings, and 17 Trade payables. Page 213 contains tables that have consolidated balance sheet and trade payables details.",
+        "table_info": "Page 213 contains tables that have consolidated balance sheet and trade payables details.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Balance Sheet",
+        "searched_phrase": "Consolidated Balance Sheet"
+      },
+      {
+        "page_num": 325,
+        "position": 36,
+        "summary": "Page 325 contains heading(s) as Notes to the Standalone Financial Statements, Retained earnings, Treasury shares, Business transfer adjustment reserve, Remeasurements of the defined benefit plans, Foreign currency translation reserve, Equity instruments through other comprehensive income, and Debt instruments through other comprehensive income. Page 325 contains table(s) that has consolidated balance sheet.",
+        "table_info": "Page 325 contains table(s) that has consolidated balance sheet.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Balance Sheet",
+        "searched_phrase": "Consolidated Balance Sheet"
+      },
+      {
+        "page_num": 283,
+        "position": 36,
+        "summary": "Page 283 contains headings as Financial Statements: Standalone Statutory Reports Company Overview, Assets, Non-current assets, Current assets, Equity and liabilities, Non-current liabilities. Page 283 contains table(s) that has consolidated balance sheet.",
+        "table_info": "Page 283 contains table(s) that has consolidated balance sheet.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Balance Sheet",
+        "searched_phrase": "Consolidated Balance Sheet"
+      },
+      {
+        "page_num": 284,
+        "position": 36,
+        "summary": "Page 284 contains no headings. Page 284 contains table(s) that has consolidated balance sheet.",
+        "table_info": "Page 284 contains table(s) that has consolidated balance sheet.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Balance Sheet",
+        "searched_phrase": "Consolidated Balance Sheet"
+      },
+      {
+        "page_num": 167,
+        "position": 36,
+        "summary": "Page 167 contains heading(s) as Consolidated Balance Sheet. Page 167 contains table(s) that has consolidated balance sheet.",
+        "table_info": "Page 167 contains table(s) that has consolidated balance sheet.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Balance Sheet",
+        "searched_phrase": "Consolidated Balance Sheet"
+      },
+      {
+        "page_num": 164,
+        "position": 37,
+        "summary": "Page 164 contains no headings. Page 164 contains no tables that has consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "table_info": "Page 164 contains no tables that has consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Balance Sheet",
+        "searched_phrase": "Consolidated Balance Sheet"
+      },
+      {
+        "page_num": 266,
+        "position": 38,
+        "summary": "Page 266 contains headings as Notes to the Consolidated Financial Statements, 49, 50, 51, 52. Page 266 contains tables that have no consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "table_info": "Page 266 contains tables that have no consolidated balance sheet, cash flow statement, or profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Balance Sheet",
+        "searched_phrase": "Consolidated Balance Sheet"
+      },
+      {
+        "page_num": 168,
+        "position": 39,
+        "summary": "Page 168 contains heading(s) as Financial Statements: Consolidated Statutory Reports Company Overview and Consolidated Balance Sheet (Contd.). Page 168 contains table(s) that has consolidated balance sheet.",
+        "table_info": "). Page 168 contains table(s) that has consolidated balance sheet.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Balance Sheet",
+        "searched_phrase": "Consolidated Balance Sheet"
+      }
+    ],
+    "Consolidated Profit and Loss Account": [
+      {
+        "page_num": 13,
+        "position": 34,
+        "summary": "Page 13 contains headings as FY24 operational and financial highlights, Overall Company, and FUN FACT. Page 13 contains tables that have consolidated profit and loss account and consolidated financial statements.",
+        "table_info": "Page 13 contains tables that have consolidated profit and loss account and consolidated financial statements.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Profit and Loss Account",
+        "searched_phrase": "Consolidated Profit and Loss Account"
+      },
+      {
+        "page_num": 38,
+        "position": 35,
+        "summary": "Page 38 contains heading(s) as Company Overview, Financial Statements, Statutory Reports: MD&A, and consolidated audited profit and loss account. Page 38 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 38 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Profit and Loss Account",
+        "searched_phrase": "Consolidated Profit and Loss Account"
+      },
+      {
+        "page_num": 285,
+        "position": 36,
+        "summary": "Page 285 contains heading(s) as Standalone Statement of Profit and Loss. Page 285 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 285 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Profit and Loss Account",
+        "searched_phrase": "Consolidated Profit and Loss Account"
+      },
+      {
+        "page_num": 246,
+        "position": 36,
+        "summary": "Page 246 contains heading(s) as Notes to the Consolidated Financial Statements. Page 246 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 246 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Profit and Loss Account",
+        "searched_phrase": "Consolidated Profit and Loss Account"
+      },
+      {
+        "page_num": 286,
+        "position": 36,
+        "summary": "Page 286 contains no headings. Page 286 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 286 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Profit and Loss Account",
+        "searched_phrase": "Consolidated Profit and Loss Account"
+      },
+      {
+        "page_num": 169,
+        "position": 36,
+        "summary": "Page 169 contains heading(s) as Consolidated Statement of Profit and Loss. Page 169 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "Page 169 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Profit and Loss Account",
+        "searched_phrase": "Consolidated Profit and Loss Account"
+      },
+      {
+        "page_num": 170,
+        "position": 39,
+        "summary": "Page 170 contains heading(s) as Consolidated Statement of Profit and Loss (Contd.). Page 170 contains table(s) that has consolidated profit and loss account.",
+        "table_info": "). Page 170 contains table(s) that has consolidated profit and loss account.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Profit and Loss Account",
+        "searched_phrase": "Consolidated Profit and Loss Account"
+      }
+    ],
+    "Consolidated Statement of Profit and Loss": [],
+    "Consolidated Cash Flow Statement": [
+      {
+        "page_num": 292,
+        "position": 36,
+        "summary": "Page 292 contains no headings. Page 292 contains table(s) that has consolidated cash flow statement.",
+        "table_info": "Page 292 contains table(s) that has consolidated cash flow statement.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Cash Flow Statement",
+        "searched_phrase": "Consolidated Cash Flow Statement"
+      },
+      {
+        "page_num": 176,
+        "position": 36,
+        "summary": "Page 176 contains heading(s) as Financial Statements: Consolidated Statutory Reports Company Overview173. Page 176 contains table(s) that has consolidated cash flow statement.",
+        "table_info": "Page 176 contains table(s) that has consolidated cash flow statement.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Cash Flow Statement",
+        "searched_phrase": "Consolidated Cash Flow Statement"
+      },
+      {
+        "page_num": 291,
+        "position": 36,
+        "summary": "Page 291 contains heading(s) as Financial Statements: Standalone Statutory Reports Company Overview, Standalone Statement of Cash Flows. Page 291 contains table(s) that has consolidated cash flow statement.",
+        "table_info": "Page 291 contains table(s) that has consolidated cash flow statement.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Cash Flow Statement",
+        "searched_phrase": "Consolidated Cash Flow Statement"
+      },
+      {
+        "page_num": 175,
+        "position": 36,
+        "summary": "Page 175 contains heading(s) as Consolidated Statement of Cash Flows. Page 175 contains table(s) that has consolidated cash flow statement.",
+        "table_info": "Page 175 contains table(s) that has consolidated cash flow statement.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Cash Flow Statement",
+        "searched_phrase": "Consolidated Cash Flow Statement"
+      },
+      {
+        "page_num": 177,
+        "position": 39,
+        "summary": "Page 177 contains heading(s) as Consolidated Statement of Cash Flows (Contd.). Page 177 contains table(s) that has consolidated cash flow statement.",
+        "table_info": "). Page 177 contains table(s) that has consolidated cash flow statement.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Cash Flow Statement",
+        "searched_phrase": "Consolidated Cash Flow Statement"
+      },
+      {
+        "page_num": 293,
+        "position": 39,
+        "summary": "Page 293 contains heading(s) as Standalone Statement of Cash Flows (Contd.). Page 293 contains table(s) that has consolidated cash flow statement.",
+        "table_info": "). Page 293 contains table(s) that has consolidated cash flow statement.",
+        "company_name": "ZOMATO",
+        "phrase": "Consolidated Cash Flow Statement",
+        "searched_phrase": "Consolidated Cash Flow Statement"
+      }
+    ]
+  },
+  "pages_summary": {
+    "213": [
+      "Balance Sheet",
+      "Consolidated Balance Sheet"
+    ],
+    "325": [
+      "Balance Sheet",
+      "Consolidated Balance Sheet"
+    ],
+    "283": [
+      "Balance Sheet",
+      "Consolidated Balance Sheet"
+    ],
+    "284": [
+      "Balance Sheet",
+      "Consolidated Balance Sheet"
+    ],
+    "167": [
+      "Balance Sheet",
+      "Consolidated Balance Sheet"
+    ],
+    "164": [
+      "Balance Sheet",
+      "Profit and Loss Account",
+      "Profit and Loss Account",
+      "Profit and Loss",
+      "Cash Flow Statement",
+      "Consolidated Balance Sheet"
+    ],
+    "266": [
+      "Balance Sheet",
+      "Profit and Loss Account",
+      "Profit and Loss Account",
+      "Profit and Loss",
+      "Cash Flow Statement",
+      "Consolidated Balance Sheet"
+    ],
+    "168": [
+      "Balance Sheet",
+      "Consolidated Balance Sheet"
+    ],
+    "225": [
+      "Balance Sheet",
+      "Profit and Loss"
+    ],
+    "309": [
+      "Balance Sheet"
+    ],
+    "13": [
+      "Profit and Loss Account",
+      "Profit and Loss Account",
+      "Profit and Loss",
+      "Consolidated Profit and Loss Account"
+    ],
+    "38": [
+      "Profit and Loss Account",
+      "Profit and Loss Account",
+      "Profit and Loss",
+      "Consolidated Profit and Loss Account"
+    ],
+    "285": [
+      "Profit and Loss Account",
+      "Profit and Loss Account",
+      "Profit and Loss",
+      "Consolidated Profit and Loss Account"
+    ],
+    "246": [
+      "Profit and Loss Account",
+      "Profit and Loss Account",
+      "Profit and Loss",
+      "Consolidated Profit and Loss Account"
+    ],
+    "286": [
+      "Profit and Loss Account",
+      "Profit and Loss Account",
+      "Profit and Loss",
+      "Consolidated Profit and Loss Account"
+    ],
+    "169": [
+      "Profit and Loss Account",
+      "Profit and Loss Account",
+      "Profit and Loss",
+      "Consolidated Profit and Loss Account"
+    ],
+    "170": [
+      "Profit and Loss Account",
+      "Profit and Loss Account",
+      "Profit and Loss",
+      "Consolidated Profit and Loss Account"
+    ],
+    "292": [
+      "Cash Flow Statement",
+      "Consolidated Cash Flow Statement"
+    ],
+    "176": [
+      "Cash Flow Statement",
+      "Consolidated Cash Flow Statement"
+    ],
+    "291": [
+      "Cash Flow Statement",
+      "Consolidated Cash Flow Statement"
+    ],
+    "175": [
+      "Cash Flow Statement",
+      "Consolidated Cash Flow Statement"
+    ],
+    "177": [
+      "Cash Flow Statement",
+      "Consolidated Cash Flow Statement"
+    ],
+    "293": [
+      "Cash Flow Statement",
+      "Consolidated Cash Flow Statement"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ingested_files": {
+    "ICICI_2023-24.pdf": {
+      "COLLECTION_NAME": "AR_EMBEDDINGS",
+      "COMPANY_NAME": "ICICI",
+      "VECTOR_NAME": "icici_pagewise_embedding"
+    },
+    "ASI_2023-24.pdf": {
+      "COLLECTION_NAME": "ASI_AR_EMBEDDINGS",
+      "COMPANY_NAME": "ASI",
+      "VECTOR_NAME": "asi_pagewise_embedding"
+    },
+    "ZOMATO_2023-24.pdf": {
+      "COLLECTION_NAME": "ZOMATO_AR_EMBEDDINGS",
+      "COMPANY_NAME": "ZOMATO",
+      "VECTOR_NAME": "zomato_pagewise_embedding"
+    },
+    "COAL INDIA_2023-24.pdf": {
+      "COLLECTION_NAME": "COAL INDIA_AR_EMBEDDINGS",
+      "COMPANY_NAME": "COAL INDIA",
+      "VECTOR_NAME": "coal india_pagewise_embedding"
+    }
+  }
+}

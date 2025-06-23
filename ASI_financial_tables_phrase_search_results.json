@@ -1,0 +1,165 @@
+{
+  "pdf_path": "C:\\Users\\himan\\Downloads\\Documents\\ASI_2023-24.pdf",
+  "collection_name": "ASI_AR_EMBEDDINGS",
+  "search_phrases": [
+    "Standalone Balance Sheet",
+    "Balance Sheet",
+    "Standalone Statement of Balance Sheet",
+    "Statement of Balance Sheet",
+    "Balance Sheet - Standalone",
+    "Standalone Profit and Loss Account",
+    "Profit and Loss Account",
+    "Profit and Loss",
+    "Profit and Loss - Standalone",
+    "Profit and Loss Account",
+    "Statement of Profit and Loss",
+    "Standalone Statement of Profit and Loss",
+    "Statement of Profit and Loss",
+    "Profit and Loss - Standalone",
+    "Statement of Profit and Loss - Standalone",
+    "Standalone Cash Flow Statement",
+    "Cash Flow Statement",
+    "Standalone Statement of Cash Flow",
+    "Statement of Cash Flow",
+    "Statement of Cash Flow - Standalone",
+    "Cash Flow - Standalone",
+    "Standalone Statement of Cash Flows",
+    "Statement of Cash Flows",
+    "Statement of Cash Flow",
+    "Cash Flow - Consolidated",
+    "Consolidated Balance Sheet",
+    "Consolidated Profit and Loss Account",
+    "Consolidated Statement of Profit and Loss",
+    "Profit and Loss - Consolidated",
+    "Consolidated Cash Flow Statement",
+    "Consolidated Statement of Cash Flows",
+    "Consolidated Statement of Cash Flow",
+    "Cash Flow - Consolidated",
+    "Consolidated Statement of Profit and Loss",
+    "Consolidated Statement of Profit and Loss Account",
+    "Consolidated Statement of Cash Flows",
+    "Consolidated Statement of Cash Flow",
+    "Consolidated Statement of Profit and Loss",
+    "Consolidated Statement of Profit and Loss Account",
+    "Statement of Consolidated Profit and Loss",
+    "Statement of Consolidated Cash Flow",
+    "Statement of Consolidated Cash Flows"
+  ],
+  "results_by_phrase": {
+    "Standalone Balance Sheet": [],
+    "Balance Sheet": [
+      {
+        "page_num": 49,
+        "position": 28,
+        "summary": "Page 49 has main heading as BALANCE SHEET AS AT MARCH 31, 2024. Page 49 has no subheadings. Page 49 contains table(s) that has {financial statements}.",
+        "main_heading_info": "Page 49 has main heading as BALANCE SHEET AS AT MARCH 31, 2024",
+        "company_name": "ASI",
+        "phrase": "Balance Sheet",
+        "searched_phrase": "Balance Sheet"
+      }
+    ],
+    "Standalone Statement of Balance Sheet": [],
+    "Statement of Balance Sheet": [],
+    "Balance Sheet - Standalone": [],
+    "Standalone Profit and Loss Account": [],
+    "Profit and Loss Account": [],
+    "Profit and Loss": [
+      {
+        "page_num": 50,
+        "position": 41,
+        "summary": "Page 50 has main heading as STATEMENT OF PROFIT AND LOSS FOR THE YEAR ENDED MARCH 31, 2024. Page 50 has no subheadings. Page 50 contains table(s) that has financial figures {profit/loss, revenue, expenses}.",
+        "main_heading_info": "Page 50 has main heading as STATEMENT OF PROFIT AND LOSS FOR THE YEAR ENDED MARCH 31, 2024",
+        "company_name": "ASI",
+        "phrase": "Profit and Loss",
+        "searched_phrase": "Profit and Loss"
+      }
+    ],
+    "Profit and Loss - Standalone": [],
+    "Statement of Profit and Loss": [
+      {
+        "page_num": 50,
+        "position": 28,
+        "summary": "Page 50 has main heading as STATEMENT OF PROFIT AND LOSS FOR THE YEAR ENDED MARCH 31, 2024. Page 50 has no subheadings. Page 50 contains table(s) that has financial figures {profit/loss, revenue, expenses}.",
+        "main_heading_info": "Page 50 has main heading as STATEMENT OF PROFIT AND LOSS FOR THE YEAR ENDED MARCH 31, 2024",
+        "company_name": "ASI",
+        "phrase": "Statement of Profit and Loss",
+        "searched_phrase": "Statement of Profit and Loss"
+      },
+      {
+        "page_num": 50,
+        "position": 28,
+        "summary": "Page 50 has main heading as STATEMENT OF PROFIT AND LOSS FOR THE YEAR ENDED MARCH 31, 2024. Page 50 has no subheadings. Page 50 contains table(s) that has financial figures {profit/loss, revenue, expenses}.",
+        "main_heading_info": "Page 50 has main heading as STATEMENT OF PROFIT AND LOSS FOR THE YEAR ENDED MARCH 31, 2024",
+        "company_name": "ASI",
+        "phrase": "Statement of Profit and Loss",
+        "searched_phrase": "Statement of Profit and Loss"
+      }
+    ],
+    "Standalone Statement of Profit and Loss": [],
+    "Statement of Profit and Loss - Standalone": [],
+    "Standalone Cash Flow Statement": [],
+    "Cash Flow Statement": [],
+    "Standalone Statement of Cash Flow": [],
+    "Statement of Cash Flow": [
+      {
+        "page_num": 52,
+        "position": 28,
+        "summary": "Page 52 has main heading as STATEMENT OF CASH FLOWS FOR THE YEAR ENDED MARCH 31, 2024. Page 52 has no subheadings. Page 52 contains table(s) that has {cash flow statement details}.",
+        "main_heading_info": "Page 52 has main heading as STATEMENT OF CASH FLOWS FOR THE YEAR ENDED MARCH 31, 2024",
+        "company_name": "ASI",
+        "phrase": "Statement of Cash Flow",
+        "searched_phrase": "Statement of Cash Flow"
+      },
+      {
+        "page_num": 52,
+        "position": 28,
+        "summary": "Page 52 has main heading as STATEMENT OF CASH FLOWS FOR THE YEAR ENDED MARCH 31, 2024. Page 52 has no subheadings. Page 52 contains table(s) that has {cash flow statement details}.",
+        "main_heading_info": "Page 52 has main heading as STATEMENT OF CASH FLOWS FOR THE YEAR ENDED MARCH 31, 2024",
+        "company_name": "ASI",
+        "phrase": "Statement of Cash Flow",
+        "searched_phrase": "Statement of Cash Flow"
+      }
+    ],
+    "Statement of Cash Flow - Standalone": [],
+    "Cash Flow - Standalone": [],
+    "Standalone Statement of Cash Flows": [],
+    "Statement of Cash Flows": [
+      {
+        "page_num": 52,
+        "position": 28,
+        "summary": "Page 52 has main heading as STATEMENT OF CASH FLOWS FOR THE YEAR ENDED MARCH 31, 2024. Page 52 has no subheadings. Page 52 contains table(s) that has {cash flow statement details}.",
+        "main_heading_info": "Page 52 has main heading as STATEMENT OF CASH FLOWS FOR THE YEAR ENDED MARCH 31, 2024",
+        "company_name": "ASI",
+        "phrase": "Statement of Cash Flows",
+        "searched_phrase": "Statement of Cash Flows"
+      }
+    ],
+    "Cash Flow - Consolidated": [],
+    "Consolidated Balance Sheet": [],
+    "Consolidated Profit and Loss Account": [],
+    "Consolidated Statement of Profit and Loss": [],
+    "Profit and Loss - Consolidated": [],
+    "Consolidated Cash Flow Statement": [],
+    "Consolidated Statement of Cash Flows": [],
+    "Consolidated Statement of Cash Flow": [],
+    "Consolidated Statement of Profit and Loss Account": [],
+    "Statement of Consolidated Profit and Loss": [],
+    "Statement of Consolidated Cash Flow": [],
+    "Statement of Consolidated Cash Flows": []
+  },
+  "pages_summary": {
+    "49": [
+      "Balance Sheet"
+    ],
+    "50": [
+      "Profit and Loss",
+      "Statement of Profit and Loss",
+      "Statement of Profit and Loss"
+    ],
+    "52": [
+      "Statement of Cash Flow",
+      "Statement of Cash Flow",
+      "Statement of Cash Flows"
+    ]
+  }
+}
